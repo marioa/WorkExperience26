@@ -1,18 +1,36 @@
 # WorkExperience26
-Work experience for 2026.
+Work experience for October 12-16th October 2026.
+
+## Content
+
+* [Topics](#topics)
+* [Requirements](#requirements)
+* [Timetable](#timetable)
 
 ## Topics
 
-Cover:
+Stuff you will learn about:
 
 * Using the command line
+* Using an editor
 * Markdown
 * Git and GitHub
 * Python
 
+## Requirements
+
+In order to participate you will need to bring a Windows or Mac laptop in which you have the rights to install software. If you do not have access to such a machine please get in touch and I will try to source a laptop for the duration of the work experience.
+
+Software that will be needed ( you do NOT have to preinstall these pieces of software - we can do that as needed):
+
+1. [git](https://git-scm.com/install)
+2. bash
+
 ## Timetable
 
-|       | Morning (9:30 - 12:00) | Afternoon (13:00 - 16:00) |
+Assume a one hour break for lunch.
+
+|       | Morning (9:30 - 12:00) | Afternoon (13:00 - 15:30) |
 | ----- | ---------------------- | ------------------------- |
 | Day 1 | Induction              |                           |
 | Day 2 |                        |                           |
