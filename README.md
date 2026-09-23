@@ -29,6 +29,7 @@ Software that will be needed ( you do NOT have to preinstall these pieces of sof
 ## Timetable
 
 Assume a one hour break for lunch.
+ACF tour pencilled in for Tuesday at the moment.
 
 |       | Morning (9:30 - 12:00) | Afternoon (13:00 - 15:30) |
 | ----- | ---------------------- | ------------------------- |
