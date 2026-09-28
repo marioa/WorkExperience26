@@ -12,10 +12,17 @@ Work experience for October 12-16th October 2026.
 Stuff you will learn about:
 
 * Using the command line
+  * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
 * Using an editor
+  * vi, nano, code
 * Markdown
 * Git and GitHub
+  * local git repo, set credentials (`git config --global user/email`), create repo in a sub directory (`git init`), status (`git status`), adding (`git add`), commiting (`git commit`) 
+  * remot repo, pulling (`git pull`), pushing (`git push`), hurdles, resolving conflicts
+  * forked repositories
 * Python
+  * Jupyter notebooks
+  * AI assists
 
 ## Requirements
 
@@ -43,5 +50,5 @@ ACF tour pencilled in for Tuesday at the moment.
 
 * Welcome to EPCC 
 * Sort out:
-  * Get Visitor passes
+  * Get Visitor passes for entry into the Bayes
   * Network laptops
