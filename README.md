@@ -6,6 +6,7 @@ Work experience for October 12-16th October 2026.
 * [Topics](#topics)
 * [Requirements](#requirements)
 * [Timetable](#timetable)
+* [Resources](#resources)
 
 ## Topics
 
@@ -41,14 +42,18 @@ ACF tour pencilled in for Tuesday at the moment.
 |       | Morning (9:30 - 12:00) | Afternoon (13:00 - 15:30) |
 | ----- | ---------------------- | ------------------------- |
 | Day 1 | Induction              |                           |
-| Day 2 |                        |                           |
+| Day 2 | Trip to the ACF        |                           |
 | Day 3 |                        |                           |
 | Day 4 |                        |                           |
 | Day 5 |                        |                           |
 
-### Induction
+## Induction
 
 * Welcome to EPCC 
 * Sort out:
   * Get Visitor passes for entry into the Bayes
   * Network laptops
+
+## Resources
+
+* BBC World Service [Inside a supercomputer: A Tech Life special](https://www.bbc.co.uk/sounds/play/w3ct8jyj) (26 mins), actually talks about the supercomputer at Edinburgh. Available on 07/10/26.
