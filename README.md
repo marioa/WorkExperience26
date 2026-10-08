@@ -14,16 +14,19 @@ Stuff you will learn about:
 
 * Using the command line
   * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
+  * Software Carpentry [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 * Using an editor
-  * vi, nano, code
-* Markdown
+  * `vi`, `nano`, [visual studio code](https://code.visualstudio.com/download)
+* Markdown ([cheat sheet](https://www.markdownguide.org/cheat-sheet/))
 * Git and GitHub
   * local git repo, set credentials (`git config --global user/email`), create repo in a sub directory (`git init`), status (`git status`), adding (`git add`), commiting (`git commit`) 
   * remot repo, pulling (`git pull`), pushing (`git push`), hurdles, resolving conflicts
   * forked repositories
+  * Software Carpentry [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Python
   * Jupyter notebooks
   * AI assists
+  * Software Carpentry [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) or [Plotting and Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
 ## Requirements
 
