@@ -14,13 +14,26 @@ Stuff you will learn about:
 
 * Using the command line
   * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
+  * On Windows can get `bash` using `git bash` part of the `git` install or can install the Windows Subsytem for Linux in the Powershell:
+    ```powershell
+    # To see what distributions are available
+    wsl.exe --list --online
+    # Can install the Ubuntu distribution
+    wsl.exe -- install Ubuntu
+    # Will ask you to create an account - set a password you will not 
+    # forget. Can launch from the command line using:
+    # wsl.exe -d Ubuntu
+    # or in a powershell window you can just type bash
+    ```
+  
+    
   * Software Carpentry [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 * Using an editor
   * `vi`, `nano`, [visual studio code](https://code.visualstudio.com/download)
 * Markdown ([cheat sheet](https://www.markdownguide.org/cheat-sheet/))
 * Git and GitHub
-  * local git repo, set credentials (`git config --global user/email`), create repo in a sub directory (`git init`), status (`git status`), adding (`git add`), commiting (`git commit`) 
-  * remot repo, pulling (`git pull`), pushing (`git push`), hurdles, resolving conflicts
+  * local git repo, set credentials (`git config --global user/email`), create repo in a sub directory (`git init`), status (`git status`), adding (`git add`), committing (`git commit`) 
+  * remote repo, pulling (`git pull`), pushing (`git push`), hurdles, resolving conflicts
   * forked repositories
   * Software Carpentry [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Python
