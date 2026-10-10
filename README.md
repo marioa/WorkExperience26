@@ -12,7 +12,7 @@ Work experience for October 12-16th October 2026.
 
 Stuff you will learn about:
 
-* Using the command line
+* Using the command line:
   * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
   * On Windows can get `bash` using `git bash` part of the `git` install or can install the Windows Subsytem for Linux in the Powershell:
     ```powershell
@@ -26,9 +26,8 @@ Stuff you will learn about:
     # or in a powershell window you can just type bash
     ```
   
-    
   * Software Carpentry [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
-* Using an editor
+* Using an editor:
   * `vi`, `nano`, [visual studio code](https://code.visualstudio.com/download)
 * Markdown ([cheat sheet](https://www.markdownguide.org/cheat-sheet/))
 * Git and GitHub
@@ -37,6 +36,11 @@ Stuff you will learn about:
   * forked repositories
   * Software Carpentry [Version Control with Git](https://swcarpentry.github.io/git-novice/)
 * Python
+  * Virtual environments:
+    ```shell
+    python -m venv .myenv
+    . .myenv/bin/activate
+    ```
   * Jupyter notebooks
   * AI assists
   * Software Carpentry [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) or [Plotting and Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
